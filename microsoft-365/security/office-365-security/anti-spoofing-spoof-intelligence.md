@@ -66,7 +66,7 @@ The rest of this article explains how to use the spoof intelligence insight in t
 
 ## What do you need to know before you begin?
 
-- You open the Microsoft 365 Defender portal at <https://security.microsoft.com>. To go directly to the **Spoofed senders** tab on the **Tenant Allow/Block List** page, use <https://security.microsoft.com/tenantAllowBlockList?viewid=SpoofItem>. To go directly to the **Spoof intelligence insight** page, use <https://security.microsoft.com/spoofintelligence>.
+- In the Microsoft 365 Defender portal at <https://security.microsoft.com>, go to directly to ** Policies & rules** > **Threat policies** > **Tenant Allow/Block List** in the **Spoofed senders** section. To go directly to the **Spoof senders** page, use <https://security.microsoft.com/tenantAllowBlockList?viewid=SpoofItem>.
 
 - To connect to Exchange Online PowerShell, see [Connect to Exchange Online PowerShell](/powershell/exchange/connect-to-exchange-online-powershell). To connect to standalone EOP PowerShell, see [Connect to Exchange Online Protection PowerShell](/powershell/exchange/connect-to-exchange-online-protection-powershell).
 
